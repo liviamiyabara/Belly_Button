@@ -7,6 +7,12 @@ The deliverable is a HTML page where the user can select a specific individual f
 ## Link for the page
 https://liviamiyabara.github.io/Belly_Button/
 
+## Deliverables
+
+* index.html file: https://github.com/liviamiyabara/Belly_Button/blob/main/index.html
+* charts.js file: https://github.com/liviamiyabara/Belly_Button/blob/main/charts.js
+* samples.json file: https://github.com/liviamiyabara/Belly_Button/blob/main/charts.js
+
 ## Screen shot of the HTML page
   ![ScreenShot]( https://github.com/liviamiyabara/Belly_Button/blob/main/images/HTML_page.png)
 
