@@ -5,5 +5,5 @@ Many bacterial species are not well studied and many more remain unknown to scie
 The deliverable is a HTML page where the user can select a specific individual from the study and check the dynamic charts with the "Top 10 Bacteria Cultures Found", the "Belly Button Washing Frequency" and the "Bacteria Cultures per Sample". 
 
 ## Screen shot of the HTML page
-  ![ScreenShot]( https://github.com/liviamiyabara/UFOs/blob/main/static/images/screen_shot_allfilters.png)
+  ![ScreenShot]( https://github.com/liviamiyabara/Belly_Button/blob/main/images/HTML_page.png)
 
